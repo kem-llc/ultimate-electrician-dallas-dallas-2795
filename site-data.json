@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "Ultimate Electrician Dallas",
+    "shortName": "Ultimate Electrician",
+    "tagline": "Your Trusted Dallas Electricians for Residential & Commercial",
+    "niche": "Electrician",
+    "phone": "(469) 526-2795",
+    "address": "9209 Windy Crest Dr, Dallas, TX 75243",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sun: 7:00 AM – 9:00 PM",
+    "ctaLabel": "Get A Free Estimate"
+  },
+  "seo": {
+    "title": "Ultimate Electrician Dallas | Top-Rated Electricians in Dallas, TX | (469) 526-2795",
+    "description": "Ultimate Electrician Dallas offers expert electrical services in Dallas, TX. 5-star rated, licensed, and insured. Call (469) 526-2795 for fast, reliable service."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Premier Electrical Service",
+      "headline": "Expert Electrical Solutions for Your Home & Business",
+      "subheadline": "From emergency repairs to full rewiring, our licensed electricians deliver safe, code-compliant work with a 5-star customer experience.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (469) 526-2795"
+    },
+    "stats": [
+      {
+        "value": "500+",
+        "label": "Projects Completed"
+      },
+      {
+        "value": "5.0",
+        "label": "Average Rating"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Residential Electrical",
+        "title": "Safe, Modern Electrical for Your Home",
+        "body": "Whether you need outlet installation, panel upgrades, or whole-home surge protection, our team ensures your family's safety and comfort. We handle everything from simple repairs to complete rewiring.",
+        "bullets": [
+          "Lighting installation & design",
+          "Ceiling fan & fixture installation",
+          "Electrical panel upgrades",
+          "Wiring & rewiring services"
+        ],
+        "reverse": false,
+        "cardLabel": "Residential",
+        "cardTitle": "Home Electrical Services",
+        "cardBody": "From new construction to remodels, we bring your vision to life with safe, code-compliant electrical work."
+      },
+      {
+        "eyebrow": "Commercial Electrical",
+        "title": "Reliable Electrical Solutions for Businesses",
+        "body": "Minimize downtime with our commercial electrical services. We work with offices, retail spaces, restaurants, and more to keep your operations running smoothly and safely.",
+        "bullets": [
+          "Commercial panel installation",
+          "Emergency lighting & exit signs",
+          "Data cabling & network setup",
+          "Energy-efficient upgrades"
+        ],
+        "reverse": true,
+        "cardLabel": "Commercial",
+        "cardTitle": "Business Electrical Services",
+        "cardBody": "We understand the urgency of commercial electrical issues. Our team responds quickly to get your business back online."
+      }
+    ],
+    "whyTitle": "Why Choose Ultimate Electrician Dallas?",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Our electricians are fully licensed, bonded, and insured, giving you peace of mind that the job is done right and safe."
+      },
+      {
+        "title": "5-Star Service",
+        "description": "We pride ourselves on exceptional customer service, reflected in our perfect 5.0 rating on Google and other review platforms."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees or surprise charges. We provide upfront, detailed quotes so you know exactly what to expect."
+      },
+      {
+        "title": "100% Satisfaction Guarantee",
+        "description": "If you're not completely satisfied, we'll make it right. Your safety and satisfaction are our top priorities."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Ultimate Electrician Dallas did an amazing job rewiring our old house. They were professional, on time, and left everything clean. Highly recommend!",
+        "author": "Sarah M.",
+        "role": "Homeowner"
+      },
+      {
+        "quote": "We called them for an emergency panel replacement on a Sunday. They arrived within an hour and had us back up and running. Truly life savers!",
+        "author": "James T.",
+        "role": "Business Owner"
+      },
+      {
+        "quote": "I've used them for multiple projects now. Always friendly, knowledgeable, and fair pricing. My go-to electrician in Dallas.",
+        "author": "Linda K.",
+        "role": "Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Started?",
+      "subheadline": "Call us today or book online for a free estimate. We're available 7 days a week.",
+      "primaryCta": "Book Online",
+      "secondaryCta": "Call (469) 526-2795"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer a full range of electrical services for residential and commercial clients in Dallas, TX. From minor repairs to major installations, our licensed electricians deliver safe, reliable, and code-compliant work. Explore our services below."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Electrical Panel Upgrades",
+      "shortDescription": "Modernize your electrical panel for increased safety and capacity.",
+      "longDescription": "Your electrical panel is the heart of your home's electrical system. If it's outdated or overloaded, it can pose a fire risk and limit your ability to use modern appliances. Our electricians specialize in upgrading panels to 200 amps or more, ensuring your system meets current code and handles your energy needs.",
+      "benefits": [
+        "Increased electrical capacity for new appliances",
+        "Improved safety with modern circuit breakers",
+        "Reduced risk of electrical fires",
+        "Compliance with latest electrical codes"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Assessment",
+          "description": "We evaluate your current panel, load requirements, and wiring condition to recommend the best upgrade solution."
+        },
+        {
+          "title": "Permitting & Preparation",
+          "description": "We handle all necessary permits and prepare your home for the upgrade, ensuring minimal disruption."
+        },
+        {
+          "title": "Installation & Testing",
+          "description": "Our team installs the new panel, connects all circuits, and thoroughly tests the system for safety and performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I need a panel upgrade?",
+          "answer": "Signs include flickering lights, frequent breaker trips, use of extension cords, or if your panel is over 25 years old. Our free inspection can determine if an upgrade is needed."
+        },
+        {
+          "question": "How long does a panel upgrade take?",
+          "answer": "Most residential panel upgrades are completed in one day. However, complex jobs may take longer. We'll provide a timeline during the estimate."
+        }
+      ],
+      "slug": "electrical-panel-upgrades"
+    },
+    {
+      "icon": "02",
+      "title": "Whole-Home Surge Protection",
+      "shortDescription": "Protect your electronics from power surges and lightning strikes.",
+      "longDescription": "Power surges can damage sensitive electronics, appliances, and even your electrical panel. Our whole-home surge protection system installs at your main panel to safeguard your entire home from external surges (like lightning) and internal surges (from large appliances).",
+      "benefits": [
+        "Protects all electronics and appliances",
+        "Prevents costly damage from surges",
+        "Easy, one-time installation",
+        "Peace of mind during storms"
+      ],
+      "process": [
+        {
+          "title": "Site Evaluation",
+          "description": "We inspect your electrical system to determine the best surge protector type and installation point."
+        },
+        {
+          "title": "Installation",
+          "description": "We install the surge protector at your main electrical panel, connecting it to the service entrance."
+        },
+        {
+          "title": "Testing & Verification",
+          "description": "We verify the protector is functioning correctly and explain how to monitor its status."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do I need whole-home surge protection if I have power strips?",
+          "answer": "Power strips only protect against smaller surges and don't cover your entire home. Whole-home protection guards all devices, including hardwired ones like HVAC systems."
+        },
+        {
+          "question": "How long does the surge protector last?",
+          "answer": "Most units last 5-10 years depending on surge frequency. We recommend annual inspections to ensure it's still working."
+        }
+      ],
+      "slug": "whole-home-surge-protection"
+    },
+    {
+      "icon": "03",
+      "title": "Lighting Installation & Design",
+      "shortDescription": "Transform your space with custom indoor and outdoor lighting.",
+      "longDescription": "From ambient indoor lighting to dramatic outdoor landscapes, our lighting services enhance the beauty, safety, and functionality of your property. We offer design consultation, installation, and upgrades for all types of lighting fixtures, including recessed, track, pendant, and smart lighting.",
+      "benefits": [
+        "Enhanced curb appeal and home value",
+        "Improved safety with well-lit pathways",
+        "Energy savings with LED options",
+        "Customized ambiance for any room"
+      ],
+      "process": [
+        {
+          "title": "Design Consultation",
+          "description": "We discuss your vision, assess the space, and recommend lighting solutions that fit your style and budget."
+        },
+        {
+          "title": "Fixture Selection & Layout",
+          "description": "We help you choose fixtures and plan their placement for optimal illumination and aesthetics."
+        },
+        {
+          "title": "Professional Installation",
+          "description": "Our electricians install all fixtures, wiring, and controls, ensuring code compliance and flawless operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you install smart lighting systems?",
+          "answer": "Yes! We specialize in smart lighting including dimmers, motion sensors, and app-controlled systems from brands like Lutron and Philips Hue."
+        },
+        {
+          "question": "Do you offer outdoor lighting for security?",
+          "answer": "Absolutely. We install motion-activated lights, floodlights, and low-voltage landscape lighting to enhance security and visibility."
+        }
+      ],
+      "slug": "lighting-installation-design"
+    },
+    {
+      "icon": "04",
+      "title": "Emergency Electrical Services",
+      "shortDescription": "24/7 emergency repairs for urgent electrical issues.",
+      "longDescription": "Electrical emergencies can happen anytime. Whether it's a power outage, sparking outlet, or exposed wiring, our team is available 24/7 to respond quickly and safely. We prioritize emergencies to minimize risk and restore your power as soon as possible.",
+      "benefits": [
+        "Rapid response, often within 60 minutes",
+        "Licensed technicians with safety gear",
+        "Temporary fixes to restore power safely",
+        "Permanent repairs to prevent recurrence"
+      ],
+      "process": [
+        {
+          "title": "Emergency Call",
+          "description": "Call us anytime. We'll ask about the issue and dispatch the nearest available electrician."
+        },
+        {
+          "title": "On-Site Assessment",
+          "description": "Our electrician arrives, assesses the danger, and takes immediate action to secure the area."
+        },
+        {
+          "title": "Repair & Restoration",
+          "description": "We perform necessary repairs, test the system, and ensure everything is safe and operational."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "What qualifies as an electrical emergency?",
+          "answer": "Any situation that poses an immediate safety risk, such as sparks, smoke, exposed wires, or complete power loss. If in doubt, call us."
+        },
+        {
+          "question": "Do you charge extra for emergency calls?",
+          "answer": "We have a standard emergency service fee, but we provide upfront pricing before any work begins. No hidden charges."
+        }
+      ],
+      "slug": "emergency-electrical-services"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Electrical Team",
+    "mission": "Our mission is to provide safe, reliable, and affordable electrical services to the Dallas community, backed by unmatched customer service and craftsmanship.",
+    "story": [
+      "Ultimate Electrician Dallas was founded with a simple goal: to bring professionalism and integrity back to the electrical industry. Our owner, a master electrician with over 15 years of experience, saw too many homeowners and businesses being overcharged or left with shoddy work. He built a team of like-minded experts who value transparency, quality, and customer satisfaction above all.",
+      "Today, we serve hundreds of clients across Dallas and surrounding areas, maintaining a perfect 5.0 rating through our dedication to excellence. Every job, big or small, receives the same attention to detail and commitment to safety. We're proud to be the electrician Dallas trusts."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Happy Customers Served"
+    },
+    "coreValues": [
+      {
+        "title": "Safety First",
+        "description": "We never compromise on safety. All work meets or exceeds code requirements, and our team undergoes continuous training."
+      },
+      {
+        "title": "Integrity",
+        "description": "We provide honest assessments, transparent pricing, and stand behind our work with a satisfaction guarantee."
+      },
+      {
+        "title": "Excellence",
+        "description": "From the smallest repair to complex installations, we deliver top-tier craftsmanship every time."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get In Touch",
+    "subheadline": "Ready to start your project? Call or fill out our form for a free, no-obligation estimate.",
+    "primaryCta": "Call (469) 526-2795",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Plano",
+      "Garland",
+      "Irving",
+      "Richardson",
+      "Addison",
+      "Carrollton",
+      "Frisco"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Electrician",
+    "generated_by": "deepseek"
+  },
+  "phone_href": "tel:4695262795",
+  "current_year": 2026
+}
